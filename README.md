@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @eincioch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, esta es mi cuenta de Github, @eincioch
+- 👀 Estoy interesado en las tecnologias .Net 
+- 🌱 Actualmente estoy aprendiendo Angular.
+- 💞️ Estoy buscando llegar a ser un MVP.
+- 📫 Cómo llegar a mí enrique.incio@evsoftconsultores.com
 
 <!---
 eincioch/eincioch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
