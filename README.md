@@ -3,7 +3,7 @@
 
 👋 Hola, soy ingeniero en sistemas 👨‍💻, desde 2009 trabajo en desarrollo de software y programación de aplicaciones principalmente Backend, aplicaciones Web y de escritorio para Windows bases de datos Microsoft SQL Server, así también desarrollo aplicaciones moviles con Xamarin.Forms ahora MAUI.NET todo esto con tecnologías .NET utilizando C#.
 
-## Así también he desarrollado proyectos en la nube de Microsft Azure, con los siguientes servicios:
+## Así también he desarrollado proyectos en la nube de Microsfot Azure, con los siguientes servicios:
 - [x] Azure Functions
     - [x] Functions durable
     - [x] con SendGrid (mensajeria)  
