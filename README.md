@@ -1,9 +1,20 @@
 <a name="readme-top"></a>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary> 
+  <ol>
+    <li><a href="#proyectos">Proyectos</a></li>
+    <li><a href="#otros">Otros</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+  </ol>
+</details>
+
 # 👨‍💻 Enrique DJ Incio Chapilliquén 🖱️
 
 👋 Hola, soy ingeniero en sistemas 👨‍💻, desde 2009 trabajo en desarrollo de software y programación de aplicaciones principalmente Backend, aplicaciones Web y de escritorio para Windows bases de datos Microsoft SQL Server, así también desarrollo aplicaciones moviles con Xamarin.Forms ahora MAUI.NET todo esto con tecnologías .NET utilizando C#.
 
-## Así también he desarrollado proyectos en la nube de Microsoft Azure, con los siguientes servicios:
+## Proyectos
+Así también he desarrollado proyectos en la nube de Microsoft Azure, con los siguientes servicios:
 - [x] Azure Functions
     - [x] Functions durable
     - [x] con SendGrid (mensajeria)  
