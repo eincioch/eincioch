@@ -4,6 +4,7 @@
   <summary>Table of Contents</summary> 
   <ol>
     <li><a href="#proyectos">Proyectos</a></li>
+    <li><a href="#integraciones">Integraciones</a></li>
     <li><a href="#otros">Otros</a></li>
     <li><a href="#contacto">Contacto</a></li>
   </ol>
@@ -14,7 +15,7 @@
 👋 Hola, soy ingeniero en sistemas 👨‍💻, desde 2009 trabajo en desarrollo de software y programación de aplicaciones principalmente Backend, aplicaciones Web y de escritorio para Windows bases de datos Microsoft SQL Server, así también desarrollo aplicaciones moviles con Xamarin.Forms ahora MAUI.NET todo esto con tecnologías .NET utilizando C#.
 
 ## Proyectos
-Así también he desarrollado proyectos en la nube de Microsoft Azure, con los siguientes servicios:
+He desarrollado proyectos en la nube de Microsoft Azure, con los siguientes servicios:
 - [x] Azure Functions
     - [x] Functions durable
     - [x] con SendGrid (mensajeria)  
@@ -24,6 +25,18 @@ Así también he desarrollado proyectos en la nube de Microsoft Azure, con los s
 - [x] Azure Virtual Machine
 - [x] Azure Cognitive Services
     - [x] API Face
+
+## Integraciones
+He integrado aplicaciones con pasarela de pagos con proveedores:
+- [x] Niubiz (Perú)
+    - [x] codigo de comercio Web
+    - [x] YAPE
+    - [x] Pagos con QR (Billeteras electronicas)
+- [x] IziPay (Perú)
+    - [x] codigo de comercio Web
+    - [x] Callback 
+- [x] Autorize.Net (Miami) 
+    - [x] Callback 
 
 ## Otros
 - 👀 Estoy interesado en las tecnologias .Net ![image](https://github.com/eincioch/eincioch/assets/12565944/5146c3db-61a8-45f4-94ce-8ca0a139bfd7)
