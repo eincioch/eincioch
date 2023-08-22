@@ -1,3 +1,6 @@
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 <details>
